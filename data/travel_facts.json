@@ -1,0 +1,50 @@
+[
+  {
+    "destination": "Bali",
+    "best_time": "April–October (dry season)",
+    "top_attractions": [
+      "Ubud Rice Terraces",
+      "Tanah Lot Temple",
+      "Uluwatu Temple",
+      "Seminyak Beach",
+      "Nusa Dua Water Sports"
+    ],
+    "local_tips": [
+      "Hire a scooter for short hops",
+      "Temple sarong required",
+      "Sunset at Tanah Lot is crowded, arrive early"
+    ]
+  },
+  {
+    "destination": "Jaipur",
+    "best_time": "October–March (pleasant winters)",
+    "top_attractions": [
+      "Amber Fort",
+      "City Palace",
+      "Hawa Mahal",
+      "Jantar Mantar",
+      "Johari & Bapu Bazaars"
+    ],
+    "local_tips": [
+      "Buy a composite ticket for forts & palaces",
+      "Try a guided food walk",
+      "Early mornings are best for Hawa Mahal"
+    ]
+  },
+  {
+    "destination": "Paris",
+    "best_time": "April–June and September–November",
+    "top_attractions": [
+      "Louvre",
+      "Eiffel Tower",
+      "Musée d'Orsay",
+      "Montmartre",
+      "Seine River Cruise"
+    ],
+    "local_tips": [
+      "Book museums in advance",
+      "Use a Navigo Easy pass for metro",
+      "Many museums close on Monday or Tuesday"
+    ]
+  }
+]

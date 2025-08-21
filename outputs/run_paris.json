@@ -1,0 +1,38 @@
+{
+  "destination": "Paris",
+  "duration_days": 4,
+  "assumptions": [
+    "Mid-range stays unless specified",
+    "Public transport / rideshare",
+    "Two paid activities overall",
+    "Stay within budget cap ≈ 2000",
+    "Best time (from RAG): April–June and September–November",
+    "Weather hint: Best time: Apr–Jun & Sep–Nov. Mild; occasional rain."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "activity": "Louvre"
+    },
+    {
+      "day": 2,
+      "activity": "Eiffel Tower"
+    },
+    {
+      "day": 3,
+      "activity": "Musée d'Orsay"
+    },
+    {
+      "day": 4,
+      "activity": "Montmartre"
+    }
+  ],
+  "budget": {
+    "accommodation": 39840.0,
+    "food": 19920.0,
+    "transport": 6640.0,
+    "activities": 8300.0,
+    "total": 74700.0
+  },
+  "currency": "INR"
+}
