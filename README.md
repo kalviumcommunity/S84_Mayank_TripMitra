@@ -1,4 +1,4 @@
-# S84_Mayank_TripMitra
+git# S84_Mayank_TripMitra
 
 🚀 TripMitra – Your AI-Powered Travel Planner & Budget Estimator
 TripMitra is your intelligent travel buddy that helps you plan personalized trips, estimate budgets, and discover exciting destinations — all powered by Generative AI. It combines System & User Prompting, Retrieval-Augmented Generation (RAG), Function Calling, and Structured Output to deliver dynamic and contextual travel experiences.
