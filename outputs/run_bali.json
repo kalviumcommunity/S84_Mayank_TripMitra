@@ -1,0 +1,41 @@
+{
+  "destination": "Bali",
+  "duration_days": 5,
+  "assumptions": [
+    "Mid-range stays unless specified",
+    "Public transport / rideshare",
+    "Two paid activities overall",
+    "Stay within budget cap ≈ 1000",
+    "Best time (from RAG): April–October (dry season)",
+    "Weather hint: Best time: Apr–Oct. Dry season; warm & sunny."
+  ],
+  "itinerary": [
+    {
+      "day": 1,
+      "activity": "Ubud Rice Terraces"
+    },
+    {
+      "day": 2,
+      "activity": "Tanah Lot Temple"
+    },
+    {
+      "day": 3,
+      "activity": "Uluwatu Temple"
+    },
+    {
+      "day": 4,
+      "activity": "Seminyak Beach"
+    },
+    {
+      "day": 5,
+      "activity": "Nusa Dua Water Sports"
+    }
+  ],
+  "budget": {
+    "accommodation": 300,
+    "food": 150,
+    "transport": 60,
+    "activities": 62.5,
+    "total": 572.5
+  }
+}
